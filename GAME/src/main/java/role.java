@@ -24,7 +24,7 @@ public class role {
         System.out.println(this.name+"開始蓄力!"+"使用技能 豪火球");
 
         //testasd
-
+//testasd
         //testasd
 
     }
