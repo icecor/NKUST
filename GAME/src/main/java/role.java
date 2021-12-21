@@ -22,6 +22,7 @@ public class role {
         System.out.println("ATTACK:" + this.ATTACK);
         System.out.println(this.name+"拿起了大天使之杖!" );
         System.out.println(this.name+"開始蓄力!"+"使用技能 豪火球");
+
         //testasd
 
     }
