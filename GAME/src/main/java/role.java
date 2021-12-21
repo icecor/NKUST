@@ -25,6 +25,8 @@ public class role {
 
         //testasd
 
+        //testasd
+
     }
     void getCurrentStatus2() {
         System.out.println("職業:" + this.name);
