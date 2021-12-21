@@ -31,6 +31,7 @@ public class role {
         System.out.println("ATTACK:" + this.ATTACK);
         System.out.println(this.name+"拿起了嗜血者!" );
         System.out.println(this.name+"開始蓄力!"+"使用技能 撕裂斬");
+        System.out.println("哈哈是我啦(huang)");
     }
     void getCurrentStatus3() {
         System.out.println("職業:" + this.name);
