@@ -37,9 +37,9 @@ public class role {
         System.out.println("HP:" + this.HP);
         System.out.println("MP:" + this.MP);
         System.out.println("ATTACK:" + this.ATTACK);
-        System.out.println(this.name+"拿起了瑞蘭颶風箭!" );
-        System.out.println(this.name+"開始蓄力!"+"使用技能 腐蝕箭雨");
-        System.out.println("哈哈是我啦");
+        System.out.println(this.name+"拿起了嗜血弓!" );
+        System.out.println(this.name+"開始攻擊!"+"使用技能 烈焰火箭");
+        System.out.println(this.name+"觸發被動!"+"使用技能 百發百中");
 
     }
 
