@@ -39,6 +39,8 @@ public class role {
         System.out.println("ATTACK:" + this.ATTACK);
         System.out.println(this.name+"拿起了瑞蘭颶風箭!" );
         System.out.println(this.name+"開始蓄力!"+"使用技能 腐蝕箭雨");
+        System.out.println("哈哈是我啦");
+
     }
 
 
